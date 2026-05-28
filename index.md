@@ -459,6 +459,63 @@ This workshop is teaching a lesson in
 </div>
 </div>
 
+<div class="header">-</div><div class="row">
+<div class="col-md-6">
+<h3>Day 1</h3>
+<table class="table table-striped">
+<tr><th>Start</th><th>Duration (minutes)</th><th>End</th><th>Episode</th></tr>
+<tr>
+	<td>09:00</td><td>10</td><td>09:10</td><td><a href="null">Introduction</a></td>
+</tr>
+<tr>
+	<td>09:10</td><td>35</td><td>09:45</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/10-hpc-intro.html">Why use a Cluster?</a></td>
+</tr>
+<tr>
+	<td>09:45</td><td>15</td><td>10:00</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/11-connecting.html">Connecting to a remote HPC system</a></td>
+</tr>
+<tr>
+	<td>10:00</td><td>45</td><td>10:45</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/12-cluster.html">Working on an HPC System</a></td>
+</tr>
+<tr>
+	<td>10:45</td><td>15</td><td>11:00</td><td><a href="-">BREAK</a></td>
+</tr>
+<tr>
+	<td>11:00</td><td>45</td><td>11:45</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/13-scheduler.html">Scheduler Fundamentals</a></td>
+</tr>
+<tr>
+	<td>11:45</td><td>45</td><td>12:30</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/15-modules.html">Accessing Software vi Modules</a></td>
+</tr>
+<tr>
+	<td>12:30</td><td>60</td><td>13:30</td><td><a href="-">LUNCH</a></td>
+</tr>
+<tr>
+	<td>13:30</td><td>45</td><td>14:15</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/16-transferring-files.html">Transferring Files</a></td>
+</tr>
+<tr>
+	<td>14:15</td><td>15</td><td>14:30</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/20-rdw.html">Using RDW</a></td>
+</tr>
+<tr>
+	<td>14:30</td><td>30</td><td>15:00</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/17-parallel.html">Running a Parallel Job</a></td>
+</tr>
+<tr>
+	<td>15:00</td><td>15</td><td>15:15</td><td><a href="-">BREAK</a></td>
+</tr>
+<tr>
+	<td>15:15</td><td>45</td><td>16:00</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/18-resources.html">Using Resources Effectively</a></td>
+</tr>
+<tr>
+	<td>16:00</td><td>45</td><td>16:45</td><td><a href="https://newcastlerse-training.github.io/hpc-intro-comet/19-responsibility.html">Using Shared Resources Responsibly</a></td>
+</tr>
+<tr>
+	<td>16:45</td><td>0</td><td>16:45</td><td><a href="-">Post -workshop Survey</a></td>
+</tr>
+<tr>
+	<td>16:45</td><td>0</td><td>16:45</td><td><a href="-">Finish</a></td>
+</tr>
+</table>
+</div>
+</div>
+
 <a href="https://carpentries-incubator.org/">The Carpentries Incubator</a>. Please check <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for a list of lesson sections and estimated timings.
 {% endif %}
 
